@@ -1,5 +1,8 @@
 
-![Photo and template (1) (1)](https://user-images.githubusercontent.com/108724696/192104806-f9fd319f-49d8-4d76-b69c-6bd14f4db4a8.jpg)
+
+
+![photo](https://user-images.githubusercontent.com/108724696/192107315-d80cfa7c-921a-4f17-a67b-0cd110afd123.jpg)
+
 
 
 
@@ -12,6 +15,10 @@ Agriculture is the most important sector in today’s life. Most plants are affe
 
 
 An automated system is introduced to identify different diseases on plants by checking the symptoms shown on the leaves of the plant. Deep learning techniques are used to identify the diseases and suggest the precautions that can be taken for those diseases. 
+
+# Technical Architecture:
+
+![Project_Structure](https://user-images.githubusercontent.com/108724696/192106205-f42421ac-76e6-488f-8dd5-c14fd5a0ce50.png)
 
 
 
