@@ -20,6 +20,8 @@ An automated system is introduced to identify different diseases on plants by ch
 
 # Technical Architecture:
 
+
+
 ![Project_Structure](https://user-images.githubusercontent.com/108724696/192106205-f42421ac-76e6-488f-8dd5-c14fd5a0ce50.
 
 
