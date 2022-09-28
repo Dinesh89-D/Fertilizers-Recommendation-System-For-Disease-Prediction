@@ -4,8 +4,19 @@
 ![photo](https://user-images.githubusercontent.com/108724696/192107315-d80cfa7c-921a-4f17-a67b-0cd110afd123.jpg)
 
 
+# Team 
 
+S.Aparna - 910719106002
 
+T.S.Balaji - 910719106003
+
+C.J.Dinesh kumar - 910719106004
+
+P.Kanteepan - 910719106005
+
+A.Muthusamy - 910719106007
+
+T.R.S.Praveenraj@sankaran - 910719106008
 
 
 # Fertilizers-Recommendation-System-For-Disease-Prediction
