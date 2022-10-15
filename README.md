@@ -4,16 +4,7 @@
  ![photo](https://user-images.githubusercontent.com/108724696/192107315-d80cfa7c-921a-4f17-a67b-0cd110afd123.jpg)
 
 
-<h2 align="center">Fertilizers Recommendation System For Disease Prediction <a href="https://github.com/IBM-EPBL/IBM-Project-17508-1659672731" target="_blank"><picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.gif" alt="🍀" width="32" height="32">
-</picture></a></h2>
 
-
-<h4 <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="20" height="20">
-</picture> </h4>
 
  
 
