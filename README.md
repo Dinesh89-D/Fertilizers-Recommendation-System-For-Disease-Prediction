@@ -1,5 +1,5 @@
 
-
+<h1>Fertilizers-Recommendation-System-For-Disease-Prediction</h1>
 
  ![photo](https://user-images.githubusercontent.com/108724696/192107315-d80cfa7c-921a-4f17-a67b-0cd110afd123.jpg)
 
