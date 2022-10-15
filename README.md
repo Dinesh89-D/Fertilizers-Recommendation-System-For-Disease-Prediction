@@ -10,16 +10,6 @@
 
 
 
-  
-- [x] Brainstorm and Ideation <br>
-- [x] Problem Statement <br>
-- [x] Empathy Map <br>
-- [x] Assignment 1 <br>
-- [x] Assignment 2  <br>
-- [x] Proposed Solution <br>
-
-
-<br>
 
 
 
@@ -27,8 +17,6 @@
 
 
 
-<!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
 
 <!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
 <!--RECENT_ACTIVITY:start-->
