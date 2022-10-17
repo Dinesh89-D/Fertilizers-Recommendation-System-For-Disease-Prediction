@@ -24,7 +24,7 @@
  <h5> Made with <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="12" height="12">
-</picture> in India | K.L.N.College Of Information Technology</h5>
+</picture>in India| K.L.N.College Of Information Technology</h5>
 
 
 
