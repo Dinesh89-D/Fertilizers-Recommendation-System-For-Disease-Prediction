@@ -1,6 +1,6 @@
 
 <h1>Fertilizers-Recommendation-System-For-Disease-Prediction</h1>
- <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/4f58003……6f33346…">
+
 
  ![photo](https://user-images.githubusercontent.com/108724696/192107315-d80cfa7c-921a-4f17-a67b-0cd110afd123.jpg)
 
