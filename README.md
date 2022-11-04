@@ -1,7 +1,4 @@
-### Ideation Phase
 
-
-* [Brainstorming]https://github.com/Dinesh89-D/Fertilizers-Recommendation-System-For-DiseasePrediction/blob/main/Project%20Design%20And%20Planning/Ideation%20Phase/Define%20Problem%20Statements%20Template%20_Dinesh.pdf
 
 <h1>Fertilizers-Recommendation-System-For-Disease-Prediction</h1>
 
